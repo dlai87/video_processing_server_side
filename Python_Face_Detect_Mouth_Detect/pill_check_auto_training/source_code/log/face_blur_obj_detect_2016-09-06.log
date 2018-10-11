@@ -1,0 +1,18 @@
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","total_frame":119,"video_duration":7870,"info":[{"step_id":0,"frame_id":0,"error_type":"face_missing"},{"step_id":9,"frame_id":90,"error_type":"face_missing"}]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"test_data/2016-08-30-dec.flv not exist","total_frame":0,"video_duration":0,"info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","total_frame":119,"video_duration":7870,"info":[{"step_id":0,"frame_id":0,"error_type":"face_missing"},{"step_id":9,"frame_id":90,"error_type":"face_missing"}]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","total_frame":119,"video_duration":7870,"info":[{"step_id":0,"frame_id":0,"error_type":"face_missing"},{"step_id":9,"frame_id":90,"error_type":"face_missing"}]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","total_frame":119,"video_duration":7870,"info":[{"step_id":0,"frame_id":0,"error_type":"face_missing"},{"step_id":9,"frame_id":90,"error_type":"face_missing"}]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","total_frame":119,"video_duration":7870,"info":[{"step_id":0,"frame_id":0,"error_type":"face_missing"},{"step_id":9,"frame_id":90,"error_type":"face_missing"}]}}
+INFO:root:finish

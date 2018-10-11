@@ -1,0 +1,11 @@
+"{\"parameter_config_xml_path\":\"TestData/parameter-config.xml\",\"input_video_path\":\"TestData/video/patient3/medication1/med_dose0/pill0/dehua1.flv\",\"unique_video_id\":\"101\",\"self_template_path\":\"TestData/video/patient3/tpl/\",\"other_template_path\":[{\"template_path\":\"TestData/video/patient5/tpl/\"}],\"video_info\":[{\"step_id\":0,\"frame_id\":0,\"frame_type\":\"Step_Start\"},{\"step_id\":0,\"frame_id\":7,\"frame_type\":\"Obj_Detected\"},{\"step_id\":1,\"frame_id\":24,\"frame_type\":\"Step_Start\"},{\"step_id\":1,\"frame_id\":42,\"frame_type\":\"Obj_Detected\"},{\"step_id\":2,\"frame_id\":54,\"frame_type\":\"Step_Start\"},{\"step_id\":2,\"frame_id\":64,\"frame_type\":\"Obj_Detected\"},{\"step_id\":3,\"frame_id\":77,\"frame_type\":\"Step_Start\"},{\"step_id\":3,\"frame_id\":133,\"frame_type\":\"Obj_Detected\"},{\"step_id\":9,\"frame_id\":146,\"frame_type\":\"Step_Start\"},{\"step_id\":9,\"frame_id\":161,\"frame_type\":\"Obj_Detected\"}],\"current_image_path\":\"TestData/video/patient3/medication1/med_dose0/pill0/face-blur.jpg\",\"unblurred_current_image_path\":\"TestData/video/patient3/medication1/med_dose0/pill0/face.jpg\",\"blurred_cropped_img_path\":\"TestData/video/patient3/medication1/med_dose0/pill0/blurred_cropped_img_path.jpg\"}"
+
+
+
+{\"step_id\":0,\"frame_id\":0,\"frame_type\":\"Step_Start\"},{\"step_id\":0,\"frame_id\":7,\"frame_type\":\"Obj_Detected\"},{\"step_id\":1,\"frame_id\":24,\"frame_type\":\"Step_Start\"},{\"step_id\":1,\"frame_id\":42,\"frame_type\":\"Obj_Detected\"},{\"step_id\":2,\"frame_id\":54,\"frame_type\":\"Step_Start\"},{\"step_id\":2,\"frame_id\":64,\"frame_type\":\"Obj_Detected\"},{\"step_id\":3,\"frame_id\":77,\"frame_type\":\"Step_Start\"},{\"step_id\":3,\"frame_id\":133,\"frame_type\":\"Obj_Detected\"},{\"step_id\":9,\"frame_id\":146,\"frame_type\":\"Step_Start\"},{\"step_id\":9,\"frame_id\":161,\"frame_type\":\"Obj_Detected\"}
+
+{\"step_id\":1,\"frame_id\":42,\"frame_type\":\"Step_Start\"}
+
+
+Obj_Detected
+Step_Start

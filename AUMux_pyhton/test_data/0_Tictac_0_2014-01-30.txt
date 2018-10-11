@@ -1,0 +1,13 @@
+videoStartTime  :1391075169461
+videoEndTime    :1391075246115
+videoFrame      :169
+audioStartTime  :1391075221308
+audioEndTime    :1391075238242
+time_offset     :51.847
+
+videoStartTime  :1391075973223
+videoEndTime    :1391076057667
+videoFrame      :120
+audioStartTime  :1391076010415
+audioEndTime    :1391076022146
+time_offset     :37.192

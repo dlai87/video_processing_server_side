@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<parameter>
+	<face_confidence_threshold>10.0</face_confidence_threshold>
+	<min_iod>10</min_iod>
+	<max_iod>10000</max_iod>
+	<face_quality_threshold>64</face_quality_threshold>
+	<max_roll_angle>45</max_roll_angle>
+	<max_yaw_angle>35</max_yaw_angle>
+	<detect_all_feature_points>0</detect_all_feature_points>
+	<detect_base_feature_points>0</detect_base_feature_points>
+</parameter>
+<general>
+	<license_components>Biometrics.FaceExtraction,Biometrics.FaceMatching</license_components>
+	<server_url>/local</server_url>
+	<port>5000</port>
+	
+</general>
+
+<folder>
+
+	<search_template_folder_name>template</search_template_folder_name>
+	<replace_folder_name>uploads/image</replace_folder_name>
+	<search_step_folder_name>step_</search_step_folder_name>
+	<unblur_save_image_ext>/face.jpg</unblur_save_image_ext>
+	<blur_save_image_ext>/face-blur.jpg</blur_save_image_ext>
+
+</folder>
+
+<output>
+	<result>result</result>
+	<message>message</message>
+	<error_message>error</error_message>
+	<mode>mode</mode>
+	<enroll>enroll</enroll>
+	<verify>verify</verify>
+	<patient_self>patient_self</patient_self>
+	<patient_other>patient_other</patient_other>
+	<is_match>is_match</is_match>
+	<score>score</score>
+	<step>step</step>
+	<path>path</path>
+	
+	<success>success</success>
+	<failure>failure</failure>
+	<true>true</true>
+	<false>false</false>
+	
+	<template_externsion>.tpl</template_externsion>
+	
+	<!--   FAR(False Acceptable Rate)  and Matching threshold(score)
+		100% 		: 0
+		10% 		: 12
+		1%  		: 24
+		0.1%		: 36
+		0.01%		: 48
+		0.001%		: 60
+		0.0001% 	: 72
+		0.00001%	: 84
+		0.000001%	: 96		
+	-->
+	<recognition_score_threshold_self>36</recognition_score_threshold_self>	
+	<recognition_score_threshold_other>72</recognition_score_threshold_other>
+	<recognition_score_threshold_saving_template>150</recognition_score_threshold_saving_template>
+	<max_save_templates>500</max_save_templates>
+	<max_save_templates_one_video>50</max_save_templates_one_video>
+</output>

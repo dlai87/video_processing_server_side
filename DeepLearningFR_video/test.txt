@@ -1,0 +1,966 @@
+label [ True] probability [ 0.99972874] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99273294] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.99998164] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.99002367] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99997354] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99997163] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99998283] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==0 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99999988] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 1.] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 0.99999881] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.99999988] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99994218] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.99999666] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99999917] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.99999988] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.99997807] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99999833] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.9999969] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 1.] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 0.99999928] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 0.9999994] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 1.] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.99999011] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==5 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.9999752] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 0.99999988] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 1.] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.99999952] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.99999762] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99981016] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.99999881] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99999213] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.99999976] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.99995065] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99997985] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99846691] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99999857] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 0.99999988] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 1.] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.9999603] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==10 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99999535] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 0.99999988] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.99999475] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99951577] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.99999976] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99999964] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.99999762] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.99998891] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99917209] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99987435] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99999988] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.99999976] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==15 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99556327] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 0.99999976] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.99999976] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.89782858] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.95188475] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.09032737] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99948442] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99996507] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99998546] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.99999964] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==20 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99987233] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99999952] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.99999976] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99969351] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.99999905] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.96067452] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.27159891] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99993885] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99961996] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99999678] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 0.99999988] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.99933892] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==25 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 1.] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 0.99895084] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99997985] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 0.98791796] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.99993885] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99917209] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 0.99948442] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.92778295] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99999142] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.05535188] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99277472] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 1.] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.9999994] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 1.] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 1.] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 1.] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 0.9839648] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 0.99803108] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99999833] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 0.99997354] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.99999642] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.34128493] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 0.99349952] V_frame_id==30 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99997747] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99999213] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99999964] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99443001] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.99999988] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.99998081] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.9987601] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99277472] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99998701] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99999881] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99999917] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.99999893] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99985015] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99999988] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99999988] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 0.99999976] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.99999964] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99895084] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99999988] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99999762] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99999666] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99999988] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99997091] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.99997926] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.96472132] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.9839648] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99988258] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99999642] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99999928] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==45 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99678445] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.99999988] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.98943055] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.9917652] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.89089781] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99803108] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99999869] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99997211] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.9999994] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==50 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99806267] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99908686] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.98917645] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.99757856] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.98791796] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99997866] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99993324] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99999881] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==55 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.86090451] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.9999603] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99999976] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.99999988] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99024022] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.99999988] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.99883038] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.08378472] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99999642] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99999487] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99999666] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.99999988] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==60 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 1.] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 0.99985015] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.9999752] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 0.99806267] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.99987233] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99999535] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 0.99556327] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.99087954] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 1.] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.76205766] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99997747] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 1.] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 1.] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 1.] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 1.] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 1.] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 0.99999666] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 0.99678445] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99999988] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 0.99972874] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.86090451] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.85906553] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 0.99998701] V_frame_id==65 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 1.] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99981016] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 0.99908686] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.99969351] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99951577] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 0.89782858] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.84250736] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 1.] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.0115398] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99443001] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 1.] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 1.] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99999142] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 1.] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99999833] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 0.99997091] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 0.98943055] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99994218] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 0.99273294] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.99024022] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.43821958] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 0.97506398] V_frame_id==70 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 1.] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 0.99999762] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99999857] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 0.99993324] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.99999678] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99999988] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 0.99998546] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.99986196] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.99999833] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.90908456] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99999881] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 1.] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 1.] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 1.] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 1.] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 1.] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 0.99999642] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 0.99997211] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 1.] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 0.99998283] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.99999666] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.99983144] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 0.99989974] V_frame_id==75 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 1.] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99995065] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 0.99757856] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.27159891] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99998891] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 0.09032737] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.25247428] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 1.] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.02831034] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.9987601] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 1.] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 1.] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.9999994] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 1.] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 1.] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 0.96472132] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 0.89089781] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99997807] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 0.99002367] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.08378472] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.95605171] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 0.99626786] V_frame_id==80 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99087954] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99999762] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.99999976] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99999475] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 0.99999976] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 1.] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.84250736] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 1.] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.94814074] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.25247428] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.92778295] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99984872] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99986196] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99999988] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.99999988] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==85 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.85906553] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.99933892] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 0.99999964] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.43821958] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99999893] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.57033521] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.95605171] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.34128493] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.97663182] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99983144] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99999011] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.99999988] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==90 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 1.] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 0.99999964] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99999976] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 0.98917645] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.96067452] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99999762] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 0.95188475] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.94814074] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 1.] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.94134861] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99998081] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 1.] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 1.] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 1.] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 1.] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 1.] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 0.99997926] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 0.9917652] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99999988] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 0.99998164] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.99883038] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.57033521] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 0.99995542] V_frame_id==95 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 1.] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 0.99999988] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99846691] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 0.99997866] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.99961996] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99987435] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 0.99996507] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 0.99984872] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 1.] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 0.82752126] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99998701] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 1.] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 1.] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 1.] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 1.] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 1.] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 0.99988258] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 0.99999869] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.9999969] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 0.99997163] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.99999487] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 0.97663182] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 0.99885917] V_frame_id==100 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.99998701] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.97506398] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.99995542] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.99626786] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.99349952] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.99885917] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.99989974] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==105 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [ True] probability [ 0.76205766] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_65
+label [ True] probability [ 1.] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_40
+label [ True] probability [ 0.99999881] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_10
+label [ True] probability [ 1.] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_55
+label [ True] probability [ 0.99999905] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_25
+label [ True] probability [ 0.99999976] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_15
+label [ True] probability [ 1.] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_20
+label [ True] probability [ 1.] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_85
+label [ True] probability [ 0.0115398] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_70
+label [ True] probability [ 1.] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_110
+label [ True] probability [ 0.99999988] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_35
+label [ True] probability [ 0.94134861] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_95
+label [ True] probability [ 0.02831034] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_80
+label [ True] probability [ 0.05535188] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_30
+label [ True] probability [ 0.82752126] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_100
+label [ True] probability [ 0.90908456] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_75
+label [ True] probability [ 1.] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_45
+label [ True] probability [ 1.] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_50
+label [ True] probability [ 0.99999666] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_5
+label [ True] probability [ 1.] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_0
+label [ True] probability [ 0.99999988] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_60
+label [ True] probability [ 1.] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_90
+label [ True] probability [ 1.] V_frame_id==110 D_frame_id==TestData/template/chunhui/videoID_304_frameID_105
+label [False] probability [ 0.99733728] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.97764343] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.99690229] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.04646413] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99986291] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.81167984] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.99746346] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.98432952] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99973315] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.04504289] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.75596339] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.98728949] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.98687369] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.99922514] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.9999975] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.00066937] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.71760714] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.07470286] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.96033818] V_frame_id==0 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.97865844] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.33569932] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.354514] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.42258129] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99975687] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.98785388] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.94525117] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.98354143] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.66251242] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.81828374] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.9527874] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99079716] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.04711835] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.00584677] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99961156] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.54062223] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.42686054] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.11485481] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.81445193] V_frame_id==5 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.99915135] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.99486673] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.97440445] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.8542428] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99999213] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.94280207] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.98728418] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.89532024] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99996281] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.51143223] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.99304694] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99999785] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.96541524] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.99863786] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99999452] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.07453527] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.98960692] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.94349498] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.99317414] V_frame_id==10 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.99670106] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.99990082] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.99037081] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.91154641] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [ True] probability [ 0.99999928] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.97705817] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.99998629] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.99913907] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99998367] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.97819114] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.99976248] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99998474] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.9996562] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.99439323] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99999356] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.25335881] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.98627049] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.1164656] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.99964976] V_frame_id==15 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.28112316] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.03982137] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.1101526] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.32520741] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99998212] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.8510294] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.00806904] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.01343041] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99788326] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.00356085] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.05176659] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.9730733] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.00085935] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.92009652] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99707758] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.00014253] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.07510126] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.02958469] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.19652756] V_frame_id==20 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.16195662] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.67504823] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.08960534] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.28561595] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99644864] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.98412412] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.83918482] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.0238032] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.97273761] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.0022593] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.07991695] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.75881422] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.02059385] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.7556513] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99930871] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.00069385] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.00098339] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.1274657] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.01343386] V_frame_id==25 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.14307339] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.00010013] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.37266374] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.00426772] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99345475] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.00304218] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.02931052] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.04130982] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.23241864] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.12527889] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.28317297] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.01473591] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.02016063] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.00013244] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.92556792] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.08884982] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.01790392] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [  5.50641671e-05] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.11712431] V_frame_id==30 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.9989801] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.99533671] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.99034762] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.99748385] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99999833] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.99985206] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.99918979] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99999714] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.64488637] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.97981972] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99993122] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.99903512] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [ True] probability [ 1.] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.5547868] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.97867352] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.99980074] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.9388805] V_frame_id==35 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.99985981] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.93512678] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.99896121] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.99858606] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99999619] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [ True] probability [ 0.99999988] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.99995875] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.99835324] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99999428] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.32135007] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.96791661] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [ True] probability [ 0.99999881] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.99966073] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [ True] probability [ 1.] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [ True] probability [ 0.99999869] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.03534455] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.71905142] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.99965394] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.96684355] V_frame_id==40 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.99987459] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.99855071] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.97521359] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.99274445] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.9999969] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.99999249] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.98075759] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.99922669] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [ True] probability [ 0.99999917] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.56094861] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.39578766] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99998856] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.99968886] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [ True] probability [ 0.99999988] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99999738] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.01251927] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.34709543] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.99952912] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.68730903] V_frame_id==45 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.99105889] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.99504554] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.98462993] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.91662896] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99999809] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.99124789] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.99812442] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.99533278] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99949718] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.98466533] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.99588579] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99989903] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.98487824] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.99998033] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [ True] probability [ 0.99999905] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.8488996] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.97005951] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.9946996] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.97316855] V_frame_id==50 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.98892808] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.99643743] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.90571016] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.09153108] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99367332] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.9955188] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.99862731] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.96186846] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99752861] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.03612506] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.99126327] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99968433] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.98526669] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.99895787] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99996483] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.00146859] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.98499727] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.74625182] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.99463683] V_frame_id==55 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.03545025] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.19353145] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.00024937] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.00131642] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99426973] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.51181346] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.10915056] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.00076367] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.45137036] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [  5.29830941e-05] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.00056358] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.58137053] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.43159658] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.78811485] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99988353] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [  6.17501382e-06] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.00012804] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.00144532] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.00120092] V_frame_id==60 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.32768053] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.17351799] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.97284895] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.03626328] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.90860695] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.84539884] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.06715167] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.34754151] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99714237] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.93465382] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.17971401] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.87070489] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.98192811] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.03781947] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99948227] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.20117944] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.66657925] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.00251008] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.126251] V_frame_id==65 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.17331648] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.97881246] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.76648331] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.24540292] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.90818179] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.9874143] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.99521905] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.99914551] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.311207] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.99277323] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.82039863] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.91263461] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.99760592] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.99055392] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.9999243] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.78248078] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.98868167] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.42951638] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.97224176] V_frame_id==70 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.85973197] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.00334887] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.42232391] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.02844872] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.98305398] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.53636283] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.11141774] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.03013214] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.51362622] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.46093339] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.08730172] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.19757289] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.58988076] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.2623319] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.98663771] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.33101022] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.11237986] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.05943386] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.59353852] V_frame_id==75 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.63558358] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.89783913] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.99787843] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.94846678] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.41652977] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.99980754] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.88401431] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.98247528] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99346256] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.88245374] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.98866034] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99499691] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.99943346] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.91396874] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99989963] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.92643636] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.99068588] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.99525911] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.96676707] V_frame_id==80 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.53488308] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.0671766] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.20489424] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.80117995] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [ True] probability [ 0.99999928] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.65982389] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.11374248] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.00121931] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99978048] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.04452385] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.10312893] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99761188] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.90160501] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.99630308] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99997294] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.05771924] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.03486121] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.06115478] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.0644137] V_frame_id==85 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.93043256] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.99774384] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.99988139] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.83201456] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [ True] probability [ 0.9999994] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.17908575] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.89608973] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.7897386] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99998403] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.39271399] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.98759604] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99965763] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.99962413] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.83430302] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99989009] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.04182384] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.76632589] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.60984802] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.90258259] V_frame_id==90 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.5893541] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.1560514] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.9968701] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.00644583] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.74251997] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.9973585] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.90212911] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.95038968] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.19514649] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.99068952] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.99668819] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.15535831] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.57905322] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.00524902] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99904102] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.41675153] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.99180967] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.01342678] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.99949729] V_frame_id==95 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.9092716] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.75777084] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.9978447] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.67501366] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.86364257] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.98887104] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.98249638] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.95836401] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.96903169] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.99130589] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.99541759] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.38600647] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.99423003] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.00101445] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.98929602] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.95882857] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.99621296] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.45208895] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.99979502] V_frame_id==100 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.99023962] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.81436211] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.98640358] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.75115919] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [ True] probability [ 0.9999994] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.99554563] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.21765138] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.10002406] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.99997723] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.10116787] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.30430406] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.99988496] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.99872452] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.99285179] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.99993765] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.00228952] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.93359536] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.65477324] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.81056792] V_frame_id==105 D_frame_id==TestData/template/lei/videoID_201_frameID_78
+label [False] probability [ 0.9974094] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_202_frameID_1
+label [False] probability [ 0.95660263] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_201_frameID_48
+label [False] probability [ 0.7797004] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_201_frameID_88
+label [False] probability [ 0.07091065] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_202_frameID_31
+label [False] probability [ 0.99983525] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_202_frameID_53
+label [False] probability [ 0.00744073] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_202_frameID_70
+label [False] probability [ 0.47352132] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_201_frameID_58
+label [False] probability [ 0.04770826] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_201_frameID_53
+label [False] probability [ 0.94287395] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_202_frameID_48
+label [False] probability [ 0.00341524] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_201_frameID_68
+label [False] probability [ 0.94123626] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_201_frameID_83
+label [False] probability [ 0.58154368] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_202_frameID_25
+label [False] probability [ 0.99951041] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_201_frameID_13
+label [False] probability [ 0.2903116] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_202_frameID_15
+label [False] probability [ 0.75835991] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_202_frameID_58
+label [False] probability [ 0.00244873] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_201_frameID_63
+label [False] probability [ 0.6121797] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_201_frameID_73
+label [False] probability [ 0.03483396] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_202_frameID_43
+label [False] probability [ 0.86575323] V_frame_id==110 D_frame_id==TestData/template/lei/videoID_201_frameID_78

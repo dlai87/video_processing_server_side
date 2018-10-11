@@ -1,0 +1,6 @@
+import svmutil
+import svm
+
+print 'test import svm'
+model = svm_load_model('/home/lei/test_data/svm_random_test/tictac_test/test_set3/model/model0.8')
+print 'load model'

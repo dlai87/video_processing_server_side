@@ -1,0 +1,7 @@
+#train_pos#../imageData/la_county/train/white_pill_real_case
+#train_pos#../imageData/la_county/train/white_pill_self_collect
+#train_neg#../imageData/false_data/la_county_white_false
+#test_pos#../imageData/la_county/test/white_pill_real_case
+#test_neg#../imageData/la_county/false_image
+#test_neg#../imageData/la_county/red_pill
+#test_neg#../imageData/false_data/la_county_white_false

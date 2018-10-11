@@ -1,0 +1,7 @@
+#train_pos#../imageData/sf/train/
+#train_neg#../imageData/false_data/sf_truvada_false
+#test_pos#../imageData/sf/test/
+#test_neg#../imageData/la_county/false_image
+#test_neg#../imageData/la_county/red_pill
+#test_neg#../imageData/la_county/pink_pill
+#test_neg#../imageData/false_data/la_county_white_false

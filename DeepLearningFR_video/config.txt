@@ -1,0 +1,6 @@
+[value-config]
+self_match_single_image_thresh = 0.271052
+self_match_cross_match_percent = 0.4
+other_match_single_image_thresh = 0.999639
+other_match_cross_match_percent = 0.4
+save_template_thresh = 0.9

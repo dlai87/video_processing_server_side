@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!--<param confidence_threshold="0"/>-->
+<params>
+	<param name="confidence_threshold">0.75</param>
+	<param name="face_missing_error_freq">10</param>
+</params>

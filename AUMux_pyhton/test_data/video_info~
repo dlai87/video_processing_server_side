@@ -1,0 +1,19 @@
+#video record with guidance off
+
+{\"ffmpeg_path\":\"/home/lei/ffmpeg-2.1.3-64bit-static/ffmpeg\",\"video_path\":\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/0_Tictac_0_2014-03-10.flv\",\"audio_path\":\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/0_Tictac_0_2014-03-10.mp3\",\"output_video_path\":\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/0_Tictac_0_2014-03-10_mux.flv\",\"video_start_time\":1394446029786,\"video_end_time\":1394446067081,\"video_end_frame\":91,\"audio_start_time\":1394446050408,\"audio_start_frame\":55,\"audio_end_time\":1394446064221,\"audio_end_frame\":90}
+
+
+#video record with guidance on
+
+
+{\"ffmpeg_path\":\"/home/lei/ffmpeg-2.1.3-64bit-static/ffmpeg\",\"video_path\":\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/0_Tictac_1_2014-03-10.flv\",\"audio_path\":\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/0_Tictac_1_2014-03-10.mp3\",\"output_video_path\":\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/0_Tictac_1_2014-03-10_mux.flv\",\"video_start_time\":1394446067090,\"video_end_time\":1394446365948,\"video_end_frame\":93,\"audio_start_time\":1394446090384,\"audio_start_frame\":51,\"audio_end_time\":1394446109907,\"audio_end_frame\":92}
+
+
+
+"{\"ffmpeg_path\":\"/home/lei/ffmpeg-2.1.3-64bit-static/ffmpeg\",\"video_path\":[\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/standard_data/0_Tictac_0_2014-05-09.flv\",\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/standard_data/0_Tictac_0_2014-05-09_copy.flv\"],\"audio_path\":\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/standard_data/0_Tictac_0_2014-05-09.mp3\",\"output_video_path\":[\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/result/2014-05-09_mux\",\"/home/lei/DehuaWorkSpace/video_processing_middleware/AVMux/test_data/result/2014-05-09_mux_\"],\"video_start_time\":1399630383804,\"video_end_time\":1399630427239,\"video_end_frame\":97,\"audio_start_time\":1399630405295,\"audio_start_frame\":54,\"audio_end_time\":1399630420694,\"audio_end_frame\":96}"
+
+
+
+
+"{\"ffmpeg_path\":\"/home/lei/ffmpeg-2.1.3-64bit-static/ffmpeg\",\"ffprobe_path\":\"/home/lei/ffmpeg-2.1.3-64bit-static/ffprobe\",\"video_path\":[\"/test_data/0_Tictac_0_2014-01-31.flv\",\"/test_data/0_Tictac_0_2014-01-31.flv\"],\"audio_path\":\"/test_data/0_Tictac_0_2014-01-31.mp3\",\"dummy_mp3_path\":\"/test_data/standard_data/dummy.mp3\",\"output_video_path\":[\"test_mux.flv\",\"test_b_mux_.flv\"],\"video_start_time\":1391171054486,\"video_end_time\":13911711211323,\"video_end_frame\":165,\"audio_start_time\":1391171108972,\"audio_start_frame\":135,\"audio_end_time\":1391171118747,\"audio_end_frame\":164}"
+

@@ -1,0 +1,3 @@
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","info":[{"step_id":1,"frame_id":26,"error_type":"wrong_pill_shape"},{"step_id":1,"frame_id":26,"error_type":"wrong_pill_color"}]}}
+INFO:root:finish

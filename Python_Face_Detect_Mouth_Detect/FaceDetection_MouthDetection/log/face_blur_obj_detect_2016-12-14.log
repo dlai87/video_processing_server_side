@@ -1,0 +1,15 @@
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"Expecting , delimiter: line 1 column 1230 (char 1230)","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"Expecting , delimiter: line 1 column 1230 (char 1230)","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"/test/test_video.flv not exist","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","info":[{"step_id":1,"frame_id":26,"error_type":"wrong_pill_shape"},{"step_id":1,"frame_id":26,"error_type":"wrong_pill_color"}]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","info":[{"step_id":1,"frame_id":26,"error_type":"wrong_pill_shape"},{"step_id":1,"frame_id":26,"error_type":"wrong_pill_color"}]}}
+INFO:root:finish

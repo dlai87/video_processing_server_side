@@ -1,0 +1,7 @@
+#train_pos#../imageData/pfizer/train/
+#train_neg#../imageData/false_data/pfizer_white_capsule_false
+#test_pos#../imageData/pfizer/test/
+#test_neg#../imageData/la_county/false_image
+#test_neg#../imageData/la_county/red_pill
+#test_neg#../imageData/la_county/pink_pill
+#test_neg#../imageData/false_data/pfizer_white_capsule_false

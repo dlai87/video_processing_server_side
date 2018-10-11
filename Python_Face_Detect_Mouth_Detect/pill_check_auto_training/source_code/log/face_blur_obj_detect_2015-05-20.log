@@ -1,0 +1,33 @@
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"No JSON object could be decoded","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"list index out of range","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"list index out of range","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"list index out of range","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"list index out of range","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"list index out of range","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"list index out of range","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"failure","message":{"error_message":"list index out of range","info":[]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","info":[{"step_id":0,"frame_id":0,"error_type":"face_missing"},{"step_id":0,"frame_id":1,"error_type":"face_missing"},{"step_id":0,"frame_id":2,"error_type":"face_missing"},{"step_id":0,"frame_id":3,"error_type":"face_missing"},{"step_id":0,"frame_id":4,"error_type":"face_missing"},{"step_id":0,"frame_id":5,"error_type":"face_missing"},{"step_id":0,"frame_id":6,"error_type":"face_missing"},{"step_id":0,"frame_id":18,"error_type":"face_missing"},{"step_id":0,"frame_id":19,"error_type":"face_missing"},{"step_id":0,"frame_id":20,"error_type":"face_missing"},{"step_id":0,"frame_id":21,"error_type":"face_missing"},{"step_id":0,"frame_id":22,"error_type":"face_missing"},{"step_id":0,"frame_id":23,"error_type":"face_missing"},{"step_id":0,"frame_id":24,"error_type":"face_missing"},{"step_id":0,"frame_id":25,"error_type":"face_missing"}]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","info":[{"step_id":0,"frame_id":0,"error_type":"face_missing"},{"step_id":0,"frame_id":1,"error_type":"face_missing"},{"step_id":0,"frame_id":2,"error_type":"face_missing"},{"step_id":0,"frame_id":3,"error_type":"face_missing"},{"step_id":0,"frame_id":4,"error_type":"face_missing"},{"step_id":0,"frame_id":5,"error_type":"face_missing"},{"step_id":0,"frame_id":6,"error_type":"face_missing"},{"step_id":0,"frame_id":18,"error_type":"face_missing"},{"step_id":0,"frame_id":19,"error_type":"face_missing"},{"step_id":0,"frame_id":20,"error_type":"face_missing"},{"step_id":0,"frame_id":21,"error_type":"face_missing"},{"step_id":0,"frame_id":22,"error_type":"face_missing"},{"step_id":0,"frame_id":23,"error_type":"face_missing"},{"step_id":0,"frame_id":24,"error_type":"face_missing"},{"step_id":0,"frame_id":25,"error_type":"face_missing"}]}}
+INFO:root:finish
+INFO:root:start
+INFO:root:{"result":"success","message":{"error_message":"null","info":[{"step_id":0,"frame_id":0,"error_type":"face_missing"},{"step_id":0,"frame_id":1,"error_type":"face_missing"},{"step_id":0,"frame_id":2,"error_type":"face_missing"},{"step_id":0,"frame_id":3,"error_type":"face_missing"},{"step_id":0,"frame_id":4,"error_type":"face_missing"},{"step_id":0,"frame_id":5,"error_type":"face_missing"},{"step_id":0,"frame_id":6,"error_type":"face_missing"},{"step_id":0,"frame_id":18,"error_type":"face_missing"},{"step_id":0,"frame_id":19,"error_type":"face_missing"},{"step_id":0,"frame_id":20,"error_type":"face_missing"},{"step_id":0,"frame_id":21,"error_type":"face_missing"},{"step_id":0,"frame_id":22,"error_type":"face_missing"},{"step_id":0,"frame_id":23,"error_type":"face_missing"},{"step_id":0,"frame_id":24,"error_type":"face_missing"},{"step_id":0,"frame_id":25,"error_type":"face_missing"}]}}
+INFO:root:finish
